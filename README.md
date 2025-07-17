@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img width="1000" height="400" alt="GitHub Banner" src="https://github.com/user-attachments/assets/f2c740f5-f5f9-4b43-be24-864169efa664" />
 
 ## About Me ✨
-I am a rising freshman at Cornell University. I will be studying Computer Science, and I plan to become a software engineer after I graduate. Currently, I am familiar with Java, Python, HTML, CSS, JavaScript, Swift, Kotlin, and SQL.
+Hello! My name is Sonya. I am pursuing Computer Science in college. I love making websites and Java programs. Currently, I am familiar with Java, Python, HTML, CSS, JavaScript, Swift, Kotlin, and SQL.
 
 ## Educational & Professional Experiences 🌟
 - Revamped the p5.js Editor Account Settings (https://github.com/processing/p5.js-web-editor/issues/3512#issue-3122864426)
@@ -24,16 +24,16 @@ I am a rising freshman at Cornell University. I will be studying Computer Scienc
 <img width="200" alt="coding" src="https://github.com/user-attachments/assets/30165e2d-7b73-47f5-ac89-378a73774564" />
 
 ## Projects 💻
-1. [Spacer Shooter](https://github.com/SonyaCode/Space-Shooter)
+1. **[Spacer Shooter](https://github.com/SonyaCode/Space-Shooter)**
 
    <img width="1390" height="761" alt="image" src="https://github.com/user-attachments/assets/3951d40e-23cd-4b28-b500-7d63b45130eb" />
 
-2. [ShareLemon](https://sonyacode.github.io/ShareLemon/)
+2. **[ShareLemon](https://sonyacode.github.io/ShareLemon/)**
 
    <img width="1912" height="877" alt="image" src="https://github.com/user-attachments/assets/7a7d5e91-1bd7-4929-97a2-c3c8fe02fe60" />
    <img width="1887" height="896" alt="image" src="https://github.com/user-attachments/assets/70a49629-289c-4125-98af-083d5a097e2e" />
 
-3. [Elevens](https://github.com/SonyaCode/Elevens-Graphic)
+3. **[Elevens](https://github.com/SonyaCode/Elevens-Graphic)**
    
    <img width="606" height="616" alt="elevens-graphic" src="https://github.com/user-attachments/assets/9f146de4-cd30-4eb6-be7e-6b12bb07413d" />
 
