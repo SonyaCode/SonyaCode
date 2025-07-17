@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **SonyaCode/SonyaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me ✨
+<img style="width: 250px;" src="https://github.com/user-attachments/assets/a0026e02-f4c9-4460-9bfa-f13d9973f5a2"/>
+
+I am a rising freshman at Cornell University. I am passionate about programming, and I will be studying Computer Science. I plan to become a software engineer after I graduate. I enjoy playing badminton and Genshin Impact, coding, listening to music, and reading web novels.
+
+## Educational & Professional Experiences 🌟
+
+## Projects 💻
