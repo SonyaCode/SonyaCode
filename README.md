@@ -21,9 +21,7 @@ I am a rising freshman at Cornell University. I will be studying Computer Scienc
 - Revamped the p5.js Editor Account Settings (https://github.com/processing/p5.js-web-editor/issues/3512#issue-3122864426)
 - Participated in NYCPS Student App Design Challenge (https://github.com/munim1216/red-carpet-journals)
 - Created a website for a volunteering organization with Wix (https://bthshopebackup.wixsite.com/my-site-3)
-
-  
-![bongo-cat-typing-f393t7cevkw08k3q](https://github.com/user-attachments/assets/30165e2d-7b73-47f5-ac89-378a73774564)
+<img width="200" alt="coding" src="https://github.com/user-attachments/assets/30165e2d-7b73-47f5-ac89-378a73774564" />
 
 ## Projects 💻
 1. [Spacer Shooter](https://github.com/SonyaCode/Space-Shooter)
@@ -42,4 +40,4 @@ I am a rising freshman at Cornell University. I will be studying Computer Scienc
 ## Portfolio
 For more projects, check out my [portfolio](https://sonyacode.github.io/Portfolio/)!
 
-![cute-cartoon-cat-bye-j5v46v5t4emf2gux](https://github.com/user-attachments/assets/24fdda81-759a-454e-8379-b248dc04b5e2)
+<img width="200" alt="goodbye" src="https://github.com/user-attachments/assets/24fdda81-759a-454e-8379-b248dc04b5e2" />
