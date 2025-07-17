@@ -37,7 +37,7 @@ I am a rising freshman at Cornell University. I will be studying Computer Scienc
    
    <img width="606" height="616" alt="elevens-graphic" src="https://github.com/user-attachments/assets/9f146de4-cd30-4eb6-be7e-6b12bb07413d" />
 
-## Portfolio
+## Portfolio 📝
 For more projects, check out my [portfolio](https://sonyacode.github.io/Portfolio/)!
 
 <img width="200" alt="goodbye" src="https://github.com/user-attachments/assets/24fdda81-759a-454e-8379-b248dc04b5e2" />
