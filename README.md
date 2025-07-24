@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img width="1000" height="400" alt="GitHub Banner" src="https://github.com/user-attachments/assets/f2c740f5-f5f9-4b43-be24-864169efa664" />
 
 ## About Me ✨
-Hello! My name is Sonya. I am pursuing Computer Science in college. I love making websites and Java programs. Currently, I am familiar with Java, Python, HTML, CSS, JavaScript, Swift, Kotlin, and SQL.
+Hello! My name is Sonya. I am pursuing Computer Science in college. I love making websites and Java programs. Currently, I am familiar with Java, Python, HTML, CSS, JavaScript, Swift, Kotlin, and SQL. My goal is to learn more about programming and become a software engineer!
 
 ## Educational & Professional Experiences 🌟
 - Revamped the p5.js Editor Account Settings (https://github.com/processing/p5.js-web-editor/issues/3512#issue-3122864426)
